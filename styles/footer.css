@@ -1,0 +1,25 @@
+.footer {
+  height: 200px;
+  background-color: black;
+  text-align: center;
+}
+.footer__text {
+  color: white;
+  padding-top: 50px;
+}
+.footer__link-img {
+  height: 25px;
+  padding-right: 5px;
+}
+.footer__link {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  transition: opacity 0.3s;
+}
+.footer__contact {
+  color: white;
+}
+.footer__link:hover {
+  opacity: 0.5;
+}

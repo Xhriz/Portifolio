@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:wght@400;700&family=Ubuntu:wght@400;700&display=swap");
+@import url("./normalize.css");
+@import url("./header.css");
+@import url("./me.css");
+@import url("./skills.css");
+@import url("./projects.css");
+@import url("./formation.css");
+@import url("./popup.css");
+@import url("./footer.css");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+.bar {
+  background-color: red;
+  width: 100px;
+  height: 7px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
